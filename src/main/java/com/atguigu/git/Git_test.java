@@ -2,7 +2,7 @@ package com.atguigu.git;
 
 /**
  * Created with IntelliJ IDEA.
- * User: ÏşÏşÏşÏş¶«
+ * User: ÃÃ¾ÃÃ¾ÃÃ¾ÃÃ¾Â¶Â«
  * Date: 2022/11/24
  * Time: 14:04
  * To change this template use File | Settings | File Templates.
@@ -17,5 +17,6 @@ public class Git_test {
         System.out.println("master test");
         System.out.println("hot-fix test");
         System.out.println("Push test");
+        System.out.println("Pull test");
     }
 }
